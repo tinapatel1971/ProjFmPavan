@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HDFrameworkProjFmPavan" duration-ms="34656" started-at="2019-12-29T04:02:14Z" finished-at="2019-12-29T04:02:48Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="34656" started-at="2019-12-29T04:02:14Z" finished-at="2019-12-29T04:02:48Z">
+      <class name="com.HDFramworkProjFmPavan.testCases.TC_AddcustomerTest_002">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.HDFramworkProjFmPavan.testCases.TC_AddcustomerTest_002@71978f46]" name="setUp" is-config="true" duration-ms="3187" started-at="2019-12-29T04:02:30Z" finished-at="2019-12-29T04:02:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.HDFramworkProjFmPavan.testCases.TC_AddcustomerTest_002@71978f46]" name="addNewCustomer" duration-ms="14001" started-at="2019-12-29T04:02:34Z" finished-at="2019-12-29T04:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HDFramworkProjFmPavan.testCases.TC_AddcustomerTest_002@71978f46]" name="tearDown" is-config="true" duration-ms="647" started-at="2019-12-29T04:02:48Z" finished-at="2019-12-29T04:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HDFramworkProjFmPavan.testCases.TC_AddcustomerTest_002 -->
+      <class name="com.HDFramworkProjFmPavan.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.HDFramworkProjFmPavan.testCases.TC_LoginTest_001@761956ac]" name="setUp" is-config="true" duration-ms="4196" started-at="2019-12-29T04:02:14Z" finished-at="2019-12-29T04:02:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.HDFramworkProjFmPavan.testCases.TC_LoginTest_001@761956ac]" name="loginTest" duration-ms="11950" started-at="2019-12-29T04:02:18Z" finished-at="2019-12-29T04:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HDFramworkProjFmPavan.testCases.TC_LoginTest_001@761956ac]" name="tearDown" is-config="true" duration-ms="642" started-at="2019-12-29T04:02:30Z" finished-at="2019-12-29T04:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HDFramworkProjFmPavan.testCases.TC_LoginTest_001 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- HDFrameworkProjFmPavan -->
+</testng-results>
